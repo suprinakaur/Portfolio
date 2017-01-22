@@ -1,0 +1,21 @@
+*{
+  font-family: 'Lato', sans-serif;
+  font-weight:300;
+  color: #747704;
+  background-color: #F0E68C;
+}
+.text-muted{
+  color: #808080;
+}
+.text-thin{
+  font-weight: 100;
+}
+.title-logo{
+  margin-top: 20px;
+}
+
+
+#work-image {
+  height: 200px;
+  max-width: 100%;
+}
