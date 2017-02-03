@@ -19,3 +19,7 @@
   height: 200px;
   max-width: 100%;
 }
+
+.header-text {
+    text-align:right;
+}
